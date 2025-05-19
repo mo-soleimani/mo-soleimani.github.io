@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Scholar Committed to Sustainability and Peace"
+title: "A Scholar Committed to Sustainability and Peace 🌎"
 author_profile: true
 redirect_from: 
   - /about/
