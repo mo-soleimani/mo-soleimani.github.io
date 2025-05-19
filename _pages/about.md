@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mahdi Suleimany; *A Researcher Committed to WorldWide Sustainability and Peace*"
+title: "A Scholar Committed to WorldWide Sustainability and Peace"
 author_profile: true
 redirect_from: 
   - /about/
