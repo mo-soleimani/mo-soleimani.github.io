@@ -25,5 +25,5 @@ Engagement & Contributions
 ------
 My commitment to climate awareness extends beyond research; I actively engage with communities as a mentor and trainer with the Climate Reality Project. In this role, I focus on enhancing public understanding of climate-related issues and fostering actionable strategies for sustainable development. This initiative allows me to blend my academic knowledge with community outreach, promoting a holistic approach to urban resilience. I believe that informed communities are crucial for driving impactful change in urban environments.
 
-Thank you for visiting my webpage! I encourage you to explore my research publications and professional experiences further. For more information, feel free to connect with me on LinkedIn[Link](https://www.linkedin.com/in/mahdi-suleimany/) and ResearchGate[Link](https://www.researchgate.net/profile/Mahdi-Suleimany?ev=prf_overview).
+Thank you for visiting my webpage! I encourage you to explore my research publications and professional experiences further. For more information, feel free to connect with me on LinkedIn[](https://www.linkedin.com/in/mahdi-suleimany/) and ResearchGate[](https://www.researchgate.net/profile/Mahdi-Suleimany?ev=prf_overview).
 
