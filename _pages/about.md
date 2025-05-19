@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mahdi Suleimany; "
+title: "Mahdi Suleimany; A Researcher Committed to WorldWide Sustainability and Peace"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ Welcome to my academic webpage! My name is **Mahdi Suleimany**, and I am an Urba
 
 Background & Achievements
 ======
-I am proud to have received the Alborz Elite Prize, a prestigious recognition in Iranian academia for my innovative contributions to urban studies. Consistently, I ranked first in both my bachelor’s and master’s programs, illustrating my commitment to academic excellence. My research focuses on critical areas such as urban climate justice and community resilience to climate change. In addition, my publications in reputable journals reflect my expertise, with topics ranging from vulnerability assessments to spatial analyses that inform urban policy and practice.
+I am proud to have received the Alborz Elite Prize, a prestigious recognition in Iranian academia for my innovative contributions to urban studies. Consistently, I ranked first in both master’s programs and my bachelor’s, illustrating my commitment to academic excellence. My research focuses on critical areas such as climate adaptation and community resilience. In addition, my publications in reputable journals reflect my expertise, with topics ranging from spatial analyses to vulnerability assessments that inform urban planning and policy-making.
 
 Professional Experience
 ======
@@ -19,7 +19,7 @@ Currently, I work as a Research and Teaching Assistant at the University of Tehr
 
 Skills & Expertise
 ------
-I possess a robust skill set essential for tackling contemporary urban planning challenges. Proficient in quantitative data analysis (R, Python) and GIS (ESRI ArcGIS, QGIS), my technical abilities enable me to conduct advanced spatial analyses and modeling. Additionally, my experience with qualitative research methods enhances my capacity to understand complex urban dynamics. Coupled with strong communication, strategic planning, and leadership skills, I am prepared to contribute effectively to collaborative projects that address urban resilience and sustainability. 
+I possess a robust skill set essential for tackling contemporary urban planning challenges. Proficient in quantitative data analysis (R, Python) and GIS (ESRI ArcGIS, QGIS), my technical abilities enable me to conduct advanced spatial analyses and modeling. Additionally, my experience with qualitative research methods enhances my capacity to understand complex urban dynamics. Coupled with strong critical thinking, communication, and leadership skills, I am prepared to contribute effectively to projects that address urban sustainability. 
 
 Engagement & Contributions
 ------
