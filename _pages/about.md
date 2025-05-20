@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my academic webpage! My name is **Mahdi Suleimany**, and I am an Urban Planning and Management Scholar and Big (Spatial) Data Scientist. Holding a Master’s degree from the University of Tehran, where I graduated with first-class honors (GPA: 19.72/20), I am deeply committed to advancing sustainable urban development practices. My journey in academia and research has shaped my passion for addressing critical urban issues, particularly the intersection of Climate Adaptation, Urban Resilience, and Sustainable Infrastructure.
 
 Background and Achievements
-======
+-----
 I am proud to have received the Alborz Elite Prize, a prestigious recognition in Iranian academia for my innovative contributions to urban studies. Consistently, I ranked first in both master’s programs and my bachelor’s, illustrating my commitment to academic excellence. My research focuses on critical areas such as climate adaptation and community resilience. In addition, my publications in reputable journals reflect my expertise, with topics ranging from spatial analyses to vulnerability assessments that inform urban planning and policy-making.
 
 Professional Experience
