@@ -24,7 +24,7 @@ redirect_from:
 • **Supervisor**: Dr. Homayoon Nooraie  
 
 
-## 🧑‍💼 Work Experience
+## 🧑🏻‍💻 Work Experience
 
 **Research and Teaching Assistant**  
 *University of Tehran | Sep 2022 – Present*  
@@ -95,5 +95,5 @@ Courses:
 
 **Climate Reality Project**  
 Mentor and Trainer | *Oct 2021 – Present*  
-• Engaged in global climate education and awareness initiatives.
+• the Climate Reality Project, participating in the climate-related global awareness
 
