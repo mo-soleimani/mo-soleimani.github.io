@@ -75,12 +75,12 @@ Courses:
 ## 📝 Publications
 
 **Journal Articles (English)**  
-- **Suleimany, M.**, & Sulaimani, T. (2025). Spatio-temporal analysis of countries’ vulnerability to extreme heat, using the hybrid F’ANP model. *International Journal of Disaster Risk Reduction (Q1-IF: 4.2)*. 105448. [DOI](https://doi.org/10.1016/j.ijdrr.2025.105448)  
-- **Suleimany, M.** (2023). Urban climate justice in hot-arid regions: Vulnerability assessment and spatial analysis of socio-economic and housing inequality in Isfahan, Iran. *Journal of Urban Climate (Q1-IF: 6).* 101612. [DOI](https://doi.org/10.1016/j.uclim.2023.101612)  
-- **Suleimany, M.**, Mokhtarzadeh, S., & Sharifi, A. (2022). Community resilience to pandemics: An assessment framework developed based on the review of COVID-19 literature. *International Journal of Disaster Risk Reduction (Q1-IF: 4.2)*. 103248. [DOI](https://doi.org/10.1016/j.ijdrr.2022.103248)  
+- **Suleimany, M.**, & Sulaimani, T. (2025). Spatio-temporal analysis of countries’ vulnerability to extreme heat, using the hybrid F’ANP model. *International Journal of Disaster Risk Reduction (Q1-IF: 4.2)*. 105448. [DOI Link](https://doi.org/10.1016/j.ijdrr.2025.105448)  
+- **Suleimany, M.** (2023). Urban climate justice in hot-arid regions: Vulnerability assessment and spatial analysis of socio-economic and housing inequality in Isfahan, Iran. *Journal of Urban Climate (Q1-IF: 6).* 101612. [DOI Link](https://doi.org/10.1016/j.uclim.2023.101612)  
+- **Suleimany, M.**, Mokhtarzadeh, S., & Sharifi, A. (2022). Community resilience to pandemics: An assessment framework developed based on the review of COVID-19 literature. *International Journal of Disaster Risk Reduction (Q1-IF: 4.2)*. 103248. [DOI Link](https://doi.org/10.1016/j.ijdrr.2022.103248)  
 
 **Journal Articles (Persian)**  
-- Ghasemi, E., Nazemi, Z., Mokhtarzadeh, S., **Suleimany, M.** (2023). Correlation analysis of macro-scale natural and built environment factors with urban heat islands intensity: Case Study of Isfahan city. *Iranian Journal of Motaleate Shahri (Urban Studies).* [DOI](https://doi.org/10.22034/urbs.2023.62764)  
+- Ghasemi, E., Nazemi, Z., Mokhtarzadeh, S., **Suleimany, M.** (2023). Correlation analysis of macro-scale natural and built environment factors with urban heat islands intensity: Case Study of Isfahan city. *Iranian Journal of Motaleate Shahri (Urban Studies).* [DOI Link](https://doi.org/10.22034/urbs.2023.62764)  
 
 **Book Chapters**  
 - Sulaimani, T., & **Suleimany, M.** (2025). Heat-health vulnerability in developing metropolitan areas; A spatial analysis on Tehran, Iran. *In: Cheshmehzangi, A., Zuo, J., Sharifi, A., Rongpeng, Z., Ziafati Bafarasat, A., & Zhao, J. Designing Healthy Cities: Integrating Climate-Resilient Urbanism for Sustainable Living. Springer Publication.* ISBN: 978-981-96-5538-0  
@@ -88,7 +88,7 @@ Courses:
 - Mokhtarzadeh, S., & **Suleimany, M.** (2023). Who benefits more from urban cooling strategies? Exploring climate justice in vulnerable groups’ access to blue-green infrastructure. *In: Cheshmehzangi A, He B, Sharifi A, & Matzarakis A. Climate Change & Cooling Cities. Springer Publication.* ISBN: 978-981-99-3675-5  
 
 **Conference Papers**  
-- **Suleimany, M.** (2021). Smart urban management and IoT; Paradigm of egovernance and technologies in developing communities. *The 5th International Conference on Internet of Things and Applications.* [DOI](https://doi.org/10.1109/IoT52625.2021.9469713)  
+- **Suleimany, M.** (2021). Smart urban management and IoT; Paradigm of egovernance and technologies in developing communities. *The 5th International Conference on Internet of Things and Applications.* [DOI Link](https://doi.org/10.1109/IoT52625.2021.9469713)  
 
 
 ## 🌍 Service & Leadership
