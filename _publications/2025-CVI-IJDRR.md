@@ -2,7 +2,7 @@
 title: "Spatio-temporal analysis of countries' vulnerability to extreme heat, using the hybrid F’ANP model"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-CVI-IJDRR
+permalink: /publication/2025-03-01-CVI-IJDRR
 excerpt: ''
 date: 2025
 venue: 'International Journal of Disaster Risk Reduction'
