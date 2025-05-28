@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Spatio-temporal analysis of countries' vulnerability to extreme heat, using the hybrid F’ANP model"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-CVI-IJDRR
+excerpt: ''
+date: 2025
+venue: 'International Journal of Disaster Risk Reduction'
+paperurl: 'https://doi.org/10.1016/j.ijdrr.2025.105448'
+citation: 'Suleimany, M., & Sulaimani, T. (2025). Spatio-temporal analysis of countries’ vulnerability to extreme heat, using the hybrid F’ANP model. International Journal of Disaster Risk Reduction. DOI: 10.1016/j.ijdrr.2025.105448'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+This study aims to investigate the spatio-temporal patterns of countries' vulnerability to extreme heat, a critical consequence of climate change that threatens communities' environmental, infrastructural, economic, and social systems. Recognizing a significant theoretical gap regarding comprehensive country-scale assessments, this research develops a Composite Vulnerability Index (CVI) by employing the hybrid F’ANP model to integrate ten indicators, considering heat exposure, sensitivity, and adaptive capacity. Analyzing data from 156 countries within seven regions over the 2001 to 2020 period, the study reveals notable regional disparities in heat vulnerability levels and fluctuation. Key findings indicate that while East Asia & Pacific and Latin America & the Caribbean regions underwent non-stationary CVI trends, Sub-Saharan Africa is the most vulnerable region due to inadequate infrastructure and economic challenges. Europe & Central Asia, the Middle East & North Africa, and also North American countries exhibit increasing vulnerability, attributed to rising land surface temperatures and the frequency of extreme heat events. Conversely, the South Asia region demonstrates a marked decline in CVI, reflecting improvements in adaptive capacity. This research underscores the need for targeted policy interventions and international collaboration to alleviate countries' heat vulnerability, emphasizing continuous monitoring and informed risk management for mitigating climate change impacts.
