@@ -2,9 +2,9 @@
 title: "Spatio-temporal analysis of countries' vulnerability to extreme heat, using the hybrid F’ANP model"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-03-01-CVI-IJDRR
+permalink: /publication/2025-03-01-CVI_IJDRR
 excerpt: ''
-date: 2025
+date: 2025-03-01
 venue: 'International Journal of Disaster Risk Reduction'
 paperurl: 'https://doi.org/10.1016/j.ijdrr.2025.105448'
 citation: 'Suleimany, M., & Sulaimani, T. (2025). Spatio-temporal analysis of countries’ vulnerability to extreme heat, using the hybrid F’ANP model. International Journal of Disaster Risk Reduction. DOI: 10.1016/j.ijdrr.2025.105448'
