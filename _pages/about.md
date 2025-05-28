@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Scholar Committed to Sustainability and Peace"
+title: "MAHDI SULEIMANY; A Scholar Committed to Peace and Sustainability among Nations and Generations"
 author_profile: true
 redirect_from: 
   - /about/
