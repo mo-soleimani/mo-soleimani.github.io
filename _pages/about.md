@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my academic webpage! My name is **Mahdi Suleimany**, and I am an Urban Planning and Management Scholar and Big (Spatial) Data Scientist. Holding a Master’s degree from the University of Tehran, where I graduated with first-class honors (GPA: 19.72/20), I am deeply committed to advancing sustainable urban development practices. My journey in academia and research has shaped my passion for addressing critical urban issues, particularly the intersection of Climate Adaptation, Urban Resilience, and Sustainable Infrastructure.
 
-<img src="/images/SDGs.png" alt="Sustainable Development Goals" style="width: 100%; display: block; margin: 0 auto;" />
+<img src="/images/SDGs.jpg" alt="Sustainable Development Goals" style="width: 100%; display: block; margin: 0 auto;" />
 
 Background and Achievements
 ------
