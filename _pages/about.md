@@ -25,7 +25,7 @@ Skills and Expertise
 ------
 I possess a robust skill set essential for tackling contemporary urban planning challenges. Proficient in quantitative data analysis (R, Python) and GIS (ESRI ArcGIS, QGIS), my technical abilities enable me to conduct advanced spatial analyses and modeling. Additionally, my experience with qualitative research methods enhances my capacity to understand complex urban dynamics. Coupled with strong critical thinking, communication, and leadership skills, I am prepared to contribute effectively to projects that address urban sustainability. 
 
-<img src="/images/SK.jpg" alt="Skills" style="width: 100%; display: block; margin: 0 auto;" />
+<img src="/images/SK1.jpg" alt="Skills" style="width: 100%; display: block; margin: 0 auto;" />
 
 Engagement and Contributions
 ------
