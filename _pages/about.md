@@ -25,6 +25,8 @@ Skills and Expertise
 ------
 I possess a robust skill set essential for tackling contemporary urban planning challenges. Proficient in quantitative data analysis (R, Python) and GIS (ESRI ArcGIS, QGIS), my technical abilities enable me to conduct advanced spatial analyses and modeling. Additionally, my experience with qualitative research methods enhances my capacity to understand complex urban dynamics. Coupled with strong critical thinking, communication, and leadership skills, I am prepared to contribute effectively to projects that address urban sustainability. 
 
+<img src="/images/SK.jpg" alt="Skills" style="width: 100%; display: block; margin: 0 auto;" />
+
 Engagement and Contributions
 ------
 My commitment to climate awareness extends beyond research; I actively engage with communities as a mentor and trainer with the Climate Reality Project. In this role, I focus on enhancing public understanding of climate-related issues and fostering actionable strategies for sustainable development. This initiative allows me to blend my academic knowledge with community outreach, promoting a holistic approach to urban resilience. I believe that informed communities are crucial for driving impactful change in urban environments.
