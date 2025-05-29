@@ -9,17 +9,17 @@ redirect_from:
 
 Welcome to my academic webpage! My name is **Mahdi Suleimany**, and I am an Urban Planning and Management Scholar and Big (Spatial) Data Scientist. Holding a Master’s degree from the University of Tehran, where I graduated with first-class honors (GPA: 19.72/20), I am deeply committed to advancing sustainable urban development practices. My journey in academia and research has shaped my passion for addressing critical urban issues, particularly the intersection of Climate Adaptation, Urban Resilience, and Sustainable Infrastructure.
 
-<img src="/images/SDGs.jpg" alt="Sustainable Development Goals" style="width: 100%; display: block; margin: 0 auto;" />
-
 Background and Achievements
 ------
 I am proud to have received the Alborz Elite Prize, a prestigious recognition in Iranian academia for my innovative contributions to urban studies. Consistently, I ranked first in both master’s programs and my bachelor’s, illustrating my commitment to academic excellence. My research focuses on critical areas such as climate adaptation and community resilience. In addition, my publications in reputable journals reflect my expertise, with topics ranging from spatial analyses to vulnerability assessments that inform urban planning and policy-making.
 
-<img src="/images/PRJ.png" alt="Projects" style="width: 100%; display: block; margin: 0 auto;" />
+<img src="/images/SDGs.jpg" alt="Sustainable Development Goals" style="width: 100%; display: block; margin: 0 auto;" />
 
 Professional Experience
 ------
 Currently, I work as a Research and Teaching Assistant at the University of Tehran, facilitating courses in urban research methodology and management. My professional engagements include key roles in international, national, and local projects that emphasize climate action initiatives and strategic master planning aimed at fostering resilient communities. Most recently, as an Urban Planner and Junior Project Manager at FarNahad Consulting Co., I developed the Isfahan Metropolitan Area’s Strategic Master Plan. 
+
+<img src="/images/PRJ.png" alt="Projects" style="width: 100%; display: block; margin: 0 auto;" />
 
 Skills and Expertise
 ------
