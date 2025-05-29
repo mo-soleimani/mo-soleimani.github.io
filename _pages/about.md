@@ -19,7 +19,7 @@ Professional Experience
 ------
 Currently, I work as a Research and Teaching Assistant at the University of Tehran, facilitating courses in urban research methodology and management. My professional engagements include key roles in international, national, and local projects that emphasize climate action initiatives and strategic master planning aimed at fostering resilient communities. Most recently, as an Urban Planner and Junior Project Manager at FarNahad Consulting Co., I developed the Isfahan Metropolitan Area’s Strategic Master Plan. 
 
-<img src="/images/PRJ.png" alt="Projects" style="width: 100%; display: block; margin: 0 auto;" />
+<img src="/images/PRJ.jpg" alt="Projects" style="width: 100%; display: block; margin: 0 auto;" />
 
 Skills and Expertise
 ------
