@@ -34,5 +34,7 @@ I have directly and indirectly collaborated with the following institutions and 
 
 <img src="/images/WP.png" alt="Skills" style="width: 100%; display: block; margin: 0 auto;" />
 
-Thank you for visiting my webpage! I encourage you to explore my research publications and professional experiences further. For more information, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahdi-suleimany/) and [ResearchGate](https://www.researchgate.net/profile/Mahdi-Suleimany?ev=prf_overview).
+
+**Thank you for visiting my webpage!**
+I encourage you to explore my research publications and professional experiences further. For more information, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahdi-suleimany/) and [ResearchGate](https://www.researchgate.net/profile/Mahdi-Suleimany?ev=prf_overview).
 
