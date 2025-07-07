@@ -62,11 +62,8 @@ redirect_from:
 
 **Research Assistant**  
 *DHEI Institute | Oct 2020 – Sep 2022*  
-• PROJECT: Developing strategic/ action plan for promoting age-friendly communities in Isfahan, based on the rapid assessment in 2019  
-• PROJECT: Assessment and pilot planning for the age-friendly environment (AFE) in Isfahan City (Organized and Supported by the UNFPA and WHO) 
-• PROJECT: Planning in Germany and Iran: Responding to challenges of climate change through intercultural dialogue (Organized by DHEI, T.U Dortmund, and DAAD Foundation)
+• PROJECT: Planning in Germany and Iran: Responding to challenges of climate change through intercultural dialogue (Organized by DHEI, T.U Dortmund, and DAAD Foundation)  
 • PROJECT: Cross-cultural landscape assessment of world cultural heritage sites (Organized by DHEI, T.U Dortmund, and DAAD Foundation) 
-
 
 ## ⚙️ Skills
 
