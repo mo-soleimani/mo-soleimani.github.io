@@ -10,23 +10,23 @@ location: "Tehran, Iran; and Chongqing, China"
 
 Lecturing on **Aging Population in the Global Warming Era** in the **Iran-China Joint Workshop on Emerging Technologies and Methods for Climate Resilience**
 
-About the Workshop
-======
-This introductory workshop is designed to familiarize participants with the fundamentals of the R programming language, with a specific focus on applications in urban planning and the social sciences. Taught in Persian, the course provides a practical roadmap for individuals looking to develop their data analysis skills in a structured and accessible way.
+About the Workshop  
+======  
+This workshop explores the intersection of global warming, extreme heat, and the rapidly aging population, with a focus on Iran’s unique demographic and climatic challenges. Drawing on recent IPCC projections and international vulnerability models, we discuss how urban planning, policy, and technical solutions can build resilience for aging communities facing increasing heat threats.
 
-Presentation Objectives:
+Workshop Objectives:
 ======
-- Learn the basics of R and RStudio
-- Apply R to real-world planning and social science questions
-- Work with datasets through hands-on exercises
-- Follow a clear path for continued learning
+- Understand how global warming intensifies heat risks for older adults, especially in Iran and the Middle East.
+- Analyze vulnerability factors using recent data and spatial models.
+- Identify urban planning, technical, and governmental strategies for boosting community heat resilience.
+- Promote climate justice and policy innovation for vulnerable populations.
 
 Key Topics Covered:
 ======
-- Installing and navigating R and RStudio
-- Working with data frames, vectors, and basic functions
-- Data cleaning and visualization using dplyr and ggplot2
-- Case examples from urban planning and social research
+- Global and regional heat trends and projections (IPCC, 2025)
+- Demographic trends and the aging population in Iran
+- Governmental and technical solutions for enhancing the aging population's resilience to heat
+- Urban planning and design for heat resilience using the WHO Age Friendly City framework
 
 Presentation  
 ======
