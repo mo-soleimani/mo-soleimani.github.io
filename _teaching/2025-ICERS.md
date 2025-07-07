@@ -16,10 +16,10 @@ This workshop explores the intersection of global warming, extreme heat, and the
 
 Workshop Objectives:
 ======
-- Understand how global warming intensifies heat risks for older adults, especially in Iran and the Middle East.
-- Analyze vulnerability factors using recent data and spatial models.
-- Identify urban planning, technical, and governmental strategies for boosting community heat resilience.
-- Promote climate justice and policy innovation for vulnerable populations.
+- Understand how global warming intensifies heat risks for older adults, especially in Iran and the Middle East
+- Analyze vulnerability factors using recent data and spatial models
+- Identify urban planning, technical, and governmental strategies for boosting community heat resilience
+- Promote climate justice and policy innovation for vulnerable populations
 
 Key Topics Covered:
 ======
