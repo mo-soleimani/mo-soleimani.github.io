@@ -1,5 +1,5 @@
 ---
-title: "Emerging Technologies and Methods for Climate Resilience"
+title: "Emerging Technologies & Methods for Climate Resilience"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2025-ICERS
