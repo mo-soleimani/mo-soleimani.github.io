@@ -63,6 +63,7 @@ redirect_from:
 **Research Assistant**  
 *DHEI Institute | Oct 2020 – Sep 2022*  
 • PROJECT: Planning in Germany and Iran: Responding to challenges of climate change through intercultural dialogue (Organized by DHEI, T.U Dortmund, and DAAD Foundation) 
+
 • PROJECT: Cross-cultural landscape assessment of world cultural heritage sites (Organized by DHEI, T.U Dortmund, and DAAD Foundation) 
 
 
