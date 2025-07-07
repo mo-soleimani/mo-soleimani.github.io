@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MAHDI SULEIMANY;<span class="handwriting">handwriting</span><br> A Scholar Committed to Peace and Sustainability"
+title: "MAHDI SULEIMANY;<span class="handwriting">handwriting</span> A Scholar Committed to Peace and Sustainability"
 author_profile: true
 redirect_from: 
   - /about/
