@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: '<span style="font-size: 2em;">Mahdi Suleimany-</span> <br> A Scholar Committed to Peace and Sustainability'
+title: '<span style="font-size: 1.5em;">Mahdi Suleimany</span> <br> A Scholar Committed to Peace and Sustainability'
 author_profile: true
 redirect_from: 
   - /about/
