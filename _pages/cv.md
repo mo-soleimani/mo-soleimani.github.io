@@ -26,9 +26,9 @@ redirect_from:
 ## 📝 Publications
 
 **Journal Articles (English)**  
-- **Suleimany, M.**, & Sulaimani, T. (2025). Spatio-temporal analysis of countries’ vulnerability to extreme heat, using the hybrid F’ANP model. *International Journal of Disaster Risk Reduction (Q1-IF: 4.2)*. 105448. [DOI Link](https://doi.org/10.1016/j.ijdrr.2025.105448)  
-- **Suleimany, M.** (2023). Urban climate justice in hot-arid regions: Vulnerability assessment and spatial analysis of socio-economic and housing inequality in Isfahan, Iran. *Journal of Urban Climate (Q1-IF: 6).* 101612. [DOI Link](https://doi.org/10.1016/j.uclim.2023.101612)  
-- **Suleimany, M.**, Mokhtarzadeh, S., & Sharifi, A. (2022). Community resilience to pandemics: An assessment framework developed based on the review of COVID-19 literature. *International Journal of Disaster Risk Reduction (Q1-IF: 4.2)*. 103248. [DOI Link](https://doi.org/10.1016/j.ijdrr.2022.103248)  
+- **Suleimany, M.**, & Sulaimani, T. (2025). Spatio-temporal analysis of countries’ vulnerability to extreme heat, using the hybrid F’ANP model. *International Journal of Disaster Risk Reduction*. [DOI Link](https://doi.org/10.1016/j.ijdrr.2025.105448)  
+- **Suleimany, M.** (2023). Urban climate justice in hot-arid regions: Vulnerability assessment and spatial analysis of socio-economic and housing inequality in Isfahan, Iran. *Journal of Urban Climate*. [DOI Link](https://doi.org/10.1016/j.uclim.2023.101612)  
+- **Suleimany, M.**, Mokhtarzadeh, S., & Sharifi, A. (2022). Community resilience to pandemics: An assessment framework developed based on the review of COVID-19 literature. *International Journal of Disaster Risk Reduction*. [DOI Link](https://doi.org/10.1016/j.ijdrr.2022.103248)  
 
 **Journal Articles (Persian)**  
 - Ghasemi, E., Nazemi, Z., Mokhtarzadeh, S., **Suleimany, M.** (2023). Correlation analysis of macro-scale natural and built environment factors with urban heat islands intensity: Case Study of Isfahan city. *Iranian Journal of Motaleate Shahri (Urban Studies).* [DOI Link](https://doi.org/10.22034/urbs.2023.62764)  
