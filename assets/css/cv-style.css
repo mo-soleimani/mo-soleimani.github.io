@@ -14,6 +14,12 @@
   padding-bottom: 1rem;
 }
 
+.handwriting {
+  font-family: 'Italianno', cursive;
+  letter-spacing: normal;
+  font-weight: normal;
+}
+
 .cv-header h1 {
   margin-bottom: 0.5rem;
   color: #2a7ae2;
