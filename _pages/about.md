@@ -30,7 +30,7 @@ I possess a robust skill set essential for tackling contemporary urban planning 
 Engagement and Contributions
 ------
 My commitment to climate awareness extends beyond research; I actively engage with communities as a mentor and trainer with the Climate Reality Project. In this role, I focus on enhancing public understanding of climate-related issues and fostering actionable strategies for sustainable development. This initiative allows me to blend my academic knowledge with community outreach, promoting a holistic approach to urban resilience. I believe that informed communities are crucial for driving impactful change in urban environments.
-I have directly and indirectly collaborated with the following institutions and companies on projects focusing on climate adaptation, urban resilience, and smart infrastructure with the aim of facilitating Sustainable (Urban) Development.
+<br> I have directly and indirectly collaborated with the following institutions and companies on projects focusing on climate adaptation, urban resilience, and smart infrastructure with the aim of facilitating Sustainable (Urban) Development.
 
 <img src="/images/WP.png" alt="Skills" style="width: 100%; display: block; margin: 0 auto;" />
 
