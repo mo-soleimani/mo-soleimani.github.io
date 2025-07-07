@@ -34,9 +34,9 @@ redirect_from:
 - Ghasemi, E., Nazemi, Z., Mokhtarzadeh, S., **Suleimany, M.** (2023). Correlation analysis of macro-scale natural and built environment factors with urban heat islands intensity: Case Study of Isfahan city. *Iranian Journal of Motaleate Shahri (Urban Studies).* [DOI Link](https://doi.org/10.22034/urbs.2023.62764)  
 
 **Book Chapters**  
-- Sulaimani, T., & **Suleimany, M.** (2025). Heat-health vulnerability in developing metropolitan areas; A spatial analysis on Tehran, Iran. *In: Cheshmehzangi, A., Zuo, J., Sharifi, A., Rongpeng, Z., Ziafati Bafarasat, A., & Zhao, J. Designing Healthy Cities: Integrating Climate-Resilient Urbanism for Sustainable Living. Springer Publication.* ISBN: 978-981-96-5538-0  
-- **Suleimany, M.**, Riahi SeGonbad, M., Naghibizadeh, S., & Dehghan Niri, S. (2025). Artificial Intelligence as a tool for building more resilient cities in the climate change era: A systematic literature review. *In: Singh, A.J., Gupta, N., Kumar. S., Sharma. S., & Upadhyay, S. Artificial Intelligence and Machine Learning Applications for Sustainable Development. CRC Press.* ISBN: 978-100-35-8124-6  
-- Mokhtarzadeh, S., & **Suleimany, M.** (2023). Who benefits more from urban cooling strategies? Exploring climate justice in vulnerable groups’ access to blue-green infrastructure. *In: Cheshmehzangi A, He B, Sharifi A, & Matzarakis A. Climate Change & Cooling Cities. Springer Publication.* ISBN: 978-981-99-3675-5  
+- Sulaimani, T., & **Suleimany, M.** (2025). Heat-health vulnerability in developing metropolitan areas; A spatial analysis on Tehran, Iran. *In: Cheshmehzangi, A., Zuo, J., Sharifi, A., Rongpeng, Z., Ziafati Bafarasat, A., & Zhao, J. Designing Healthy Cities: Integrating Climate-Resilient Urbanism for Sustainable Living. Springer Publication.* [DOI Link](https://doi.org/10.1007/978-981-96-5538-0_2)
+- **Suleimany, M.**, Riahi SeGonbad, M., Naghibizadeh, S., & Dehghan Niri, S. (2025). Artificial Intelligence as a tool for building more resilient cities in the climate change era: A systematic literature review. *In: Singh, A.J., Gupta, N., Kumar. S., Sharma. S., & Upadhyay, S. Artificial Intelligence and Machine Learning Applications for Sustainable Development. CRC Press.* [DOI Link](http://dx.doi.org/10.1201/9781003581246-3) 
+- Mokhtarzadeh, S., & **Suleimany, M.** (2023). Who benefits more from urban cooling strategies? Exploring climate justice in vulnerable groups’ access to blue-green infrastructure. *In: Cheshmehzangi A, He B, Sharifi A, & Matzarakis A. Climate Change & Cooling Cities. Springer Publication.* [DOI Link](https://doi.org/10.1007/978-981-99-3675-5_15)  
 
 **Conference Papers**  
 - **Suleimany, M.** (2021). Smart urban management and IoT; Paradigm of egovernance and technologies in developing communities. *The 5th International Conference on Internet of Things and Applications.* [DOI Link](https://doi.org/10.1109/IoT52625.2021.9469713)
@@ -49,7 +49,7 @@ redirect_from:
 
 **Research and Teaching Assistant**  
 *University of Tehran | Sep 2022 – Present*  
-• COURSES: Urban Research Methodology; Basics of Urban Management; Natural Disasters & Human Habitats; English for Urban Planners.
+• COURSES: Urban Research Methodology; Basics of Urban Management; Natural Disasters and Human Habitats; English for Urban Planners.
 
 **Urban Planner and Team Manager**  
 *FarNahad Consulting Co. | Dec 2023 – Mar 2025*  
@@ -70,9 +70,9 @@ redirect_from:
 
 **Technical**  
 • Quantitative: R, Python, System Dynamics (AnyLogic)  
-• GIS & Remote Sensing: ArcGIS, QGIS, ENVI  
+• GIS and Remote Sensing: ArcGIS, QGIS, ENVI  
 • Qualitative: MaxQDA, NVivo  
-• Office & PM: MS Office, MS Project  
+• Office and Project Management: MS Office, MS Project  
 
 **Soft Skills**  
 • Leadership, Strategic Planning, Communication  
@@ -84,13 +84,13 @@ redirect_from:
 
 **Certificates**  
 • *R Programming* – Johns Hopkins (2024)  
-• *Geospatial & Environmental Analysis* – UC Davis (2023)  
+• *Geospatial and Environmental Analysis* – UC Davis (2023)  
 • *Machine Learning with Python* – IBM (2023)  
 • *Smart Cities* – EPFL (2023)  
 • *Net-Zero Energy Settlements* – Univ. of Isfahan (2022)  
 • *What is Data Science?* – IBM (2022)  
 
-## 🌍 Service & Leadership
+## 🌍 Service and Leadership
 
 **Climate Reality Project**  
 Mentor and Trainer | *Oct 2021 – Present*  
