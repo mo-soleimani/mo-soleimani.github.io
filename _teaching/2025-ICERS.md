@@ -3,12 +3,12 @@ title: "Emerging Technologies and Methods for Climate Resilience"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2025-ICERS
-venue: ""
+venue: "Chongqing University, China"
 date: 2025-6-01
-location: "Tehran, Iran; & Chongqing, China"
+location: "Tehran, Iran; and Chongqing, China"
 ---
 
-I and my colleague, Dr. Safoora Mokhtarzadeh, were the invited key speakers in the **Iran-China Joint Workshop on Emerging Technologies and Methods for Climate Resilience** presenting on **Aging Population in the Global Warming Era; Systemic Solution (Governmental & Technical) for Enhancing Aging Communities Heat Resilience** 
+Lecturing on **Aging Population in the Global Warming Era** in the **Iran-China Joint Workshop on Emerging Technologies and Methods for Climate Resilience**
 
 About the Workshop
 ======
