@@ -83,12 +83,12 @@ redirect_from:
 • English (C1) – *TOEFL: 109/120* (R:30, L:30, S:27, W:22) – Apr 26, 2025  
 
 **Certificates**  
-• *R Programming* – Johns Hopkins (2024)  
-• *Geospatial and Environmental Analysis* – UC Davis (2023)  
-• *Machine Learning with Python* – IBM (2023)  
-• *Smart Cities* – EPFL (2023)  
+• *[R Programming](https://coursera.org/verify/IIF6HF9I0NPT)* – Johns Hopkins (2024)  
+• *[Geospatial and Environmental Analysis](https://www.coursera.org/account/accomplishments/certificate/YFW9GSBTT7YS)* – UC Davis (2023)  
+• *[Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/RBD9Q8SMUNRT)* – IBM (2023)  
+• *[Smart Cities](https://www.coursera.org/account/accomplishments/certificate/6X2YFGL6LL5X)* – EPFL (2023)  
 • *Net-Zero Energy Settlements* – Univ. of Isfahan (2022)  
-• *What is Data Science?* – IBM (2022)  
+• *[What is Data Science?](https://www.coursera.org/account/accomplishments/verify/P9E7PGR43M4Z)* – IBM (2022)  
 
 ## 🌍 Service and Leadership
 
