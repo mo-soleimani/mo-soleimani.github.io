@@ -35,7 +35,7 @@ redirect_from:
 
 **Book Chapters**  
 - Sulaimani, T., & **Suleimany, M.** (2025). Heat-health vulnerability in developing metropolitan areas; A spatial analysis on Tehran, Iran. *In: Cheshmehzangi, A., Zuo, J., Sharifi, A., Rongpeng, Z., Ziafati Bafarasat, A., & Zhao, J. Designing Healthy Cities: Integrating Climate-Resilient Urbanism for Sustainable Living. Springer Publication.* [DOI Link](https://doi.org/10.1007/978-981-96-5538-0_2)
-- **Suleimany, M.**, Riahi SeGonbad, M., Naghibizadeh, S., & Dehghan Niri, S. (2025). Artificial Intelligence as a tool for building more resilient cities in the climate change era: A systematic literature review. *In: Singh, A.J., Gupta, N., Kumar. S., Sharma. S., & Upadhyay, S. Artificial Intelligence and Machine Learning Applications for Sustainable Development. CRC Press.* [DOI Link](http://dx.doi.org/10.1201/9781003581246-3) 
+- **Suleimany, M.**, Riahi, M., Naghibizadeh, S., & Dehghan, S. (2025). Artificial Intelligence as a tool for building more resilient cities in the climate change era: A systematic literature review. *In: Singh, A.J., et al. Artificial Intelligence and Machine Learning Applications for Sustainable Development. CRC Press.* [DOI Link](http://dx.doi.org/10.1201/9781003581246-3) 
 - Mokhtarzadeh, S., & **Suleimany, M.** (2023). Who benefits more from urban cooling strategies? Exploring climate justice in vulnerable groups’ access to blue-green infrastructure. *In: Cheshmehzangi A, He B, Sharifi A, & Matzarakis A. Climate Change & Cooling Cities. Springer Publication.* [DOI Link](https://doi.org/10.1007/978-981-99-3675-5_15)  
 
 **Conference Papers**  
@@ -49,7 +49,7 @@ redirect_from:
 
 **Research and Teaching Assistant**  
 *University of Tehran | Sep 2022 – Present*  
-• COURSES: Urban Research Methodology; Basics of Urban Management; Natural Disasters and Human Habitats; English for Urban Planners.
+• COURSE: Urban Research Methodology; Basics of Urban Management; Natural Disasters and Human Habitats; English for Urban Planners.
 
 **Urban Planner and Team Manager**  
 *FarNahad Consulting Co. | Dec 2023 – Mar 2025*  
