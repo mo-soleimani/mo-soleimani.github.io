@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 
+title: Projects
 permalink: /projects/
 layout: single
 ---
-
-# Projects
 
 ## Current Projects
 
