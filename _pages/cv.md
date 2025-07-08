@@ -45,7 +45,7 @@ redirect_from:
 
 **Research Assistant**  
 *DHEI Institute | Apr 2025 – Current*  
-• PROJECT: Global Goals, Local Plans: Swiss–Iranian Collaboration Towards Age-Friendly Cities (Organized by DHEI and Zurich University of Applied Science)
+• PROJECT: Global goals, local plans: Swiss–Iranian collaboration towards age-friendly cities (Organized by DHEI and Zurich University of Applied Science)
 
 **Research and Teaching Assistant**  
 *University of Tehran | Sep 2022 – Present*  
