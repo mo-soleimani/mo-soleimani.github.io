@@ -44,7 +44,7 @@ redirect_from:
 ## 🧑🏻‍💻 Work Experience
 
 **Research Assistant**  
-*DHEI Institute | Oct 2020 – Sep 2022*  
+*DHEI Institute | Apr 2025 – Current*  
 • PROJECT: Clustering and classification Isfahan City based on aging in place: Providing effective strategies for vulnerable communities (Organized by DHEI and Zurich University of Applied Science)
 
 **Research and Teaching Assistant**  
