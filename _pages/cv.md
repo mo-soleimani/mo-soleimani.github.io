@@ -89,6 +89,18 @@ redirect_from:
 • Net-Zero Energy Settlements – *Univ. of Isfahan (2022)*  
 • [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/P9E7PGR43M4Z) – *IBM (2022)*  
 
+## 🎖️ Awards and Achievements
+
+**Alborz (National) Elite Prize**  
+• Winner of Alborz (National) Elite Prize, known as the Iranian Nobel Prize, for academic and research excellence in humanitarian areas
+
+**Iranian Ministry of Science (National) Scholarship**  
+• Winner of Iranian Ministry of Science (National) Scholarships, covering the tuition and educational fees, for outstanding grades in both master’s and bachelor’s programs and universities entrance exam
+
+**First-Rank Student**  
+• First-rank student among 12 students in master’s studies (University of Tehran)
+• First-rank student among 35 students in bachelor’s (Art University of Isfahan)
+
 ## 🌍 Service and Leadership
 
 **Climate Reality Project**  
