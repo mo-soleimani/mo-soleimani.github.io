@@ -98,8 +98,7 @@ redirect_from:
 • Winner of Iranian Ministry of Science (National) Scholarships, covering the tuition and educational fees, for outstanding grades in both master’s and bachelor’s programs and universities entrance exam
 
 **First-Rank Student**  
-• First-rank student among 12 students in master’s studies (University of Tehran)
-• First-rank student among 35 students in bachelor’s (Art University of Isfahan)
+• First-rank student among 12 students in master’s studies (University of Tehran) and among 35 students in bachelor’s (Art University of Isfahan)
 
 ## 🌍 Service and Leadership
 
