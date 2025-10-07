@@ -22,7 +22,7 @@ repository               : "mi-suleimany.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PR.jpg"
+  avatar           : "PRF.jpg"
   name             : "Mahdi Suleimany"
   pronouns         : # example: "He/Him"  
   bio              : "Urban Planner and Data Scientist"
