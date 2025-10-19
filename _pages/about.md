@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 'MAHDI SULEIMANY; <br> A Scholar Committed to Learning and Sustainability'
+title: 'مصطفی سلیمانی; <br> بیش از 30 سال سابقه در صنعت لوازم خانگی'
 author_profile: true
 redirect_from: 
   - /about/
