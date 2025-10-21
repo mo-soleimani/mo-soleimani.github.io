@@ -35,6 +35,7 @@ With extensive experience in engineering, production, and sales management, I am
 
 <img src="/images/A05.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
+<img src="/images/A50.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 **Thank you for visiting my webpage!**
 I invite you to learn more about my professional journey on [LinkedIn](https://www.linkedin.com/). For inquiries or collaboration opportunities, feel free to reach out via phone at **+98 913 360 1439** or by [Email](mo.soleimani1971@gmail.com).
