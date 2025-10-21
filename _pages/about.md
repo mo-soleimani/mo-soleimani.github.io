@@ -9,6 +9,8 @@ redirect_from:
 
 Welcome to my professional webpage! I am **Mostafa Soleimani**, Sales Director at Payam Holding, part of the Entekhab Industrial Group. With over three decades of experience in the home appliance manufacturing industry, I have collaborated with more than one hundred domestic and international companies. My professional journey is founded on technical expertise, operational experience, and a systemic approach to supply chain, production, and sales management. My mission is to enhance the quality and sustainability of home appliance industry through knowledge transfer, technical development, and strong connections between manufacturers and global markets.
 
+<img src="/images/A01.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto;" />
+
 Professional Experience
 ------
 My professional career began in 1995, progressing from a home appliance service technician to senior engineering and management positions in leading industrial firms. I have worked with major brands such as Snowa, Daewoo, and Haier, contributing to product design, production line installation, reverse engineering, and quality control. I have led key projects in factory setup, workforce training, and product development, bridging the gap between technology and market demand to advance the domestic home appliance industry.
