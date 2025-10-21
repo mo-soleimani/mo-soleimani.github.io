@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 'MOSTAFA SOLEIMANI; <br> More Than 30 Years in The Home Appliance Industry'
+title: '**MOSTAFA SOLEIMANI**; <br> 30+ Years in The Home Appliance Industry'
 author_profile: true
 redirect_from: 
   - /about/
