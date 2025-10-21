@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Welcome to my professional webpage! I am **Mostafa Soleimani**, Sales Director at Payam Holding, part of the Entekhab Industrial Group. With over three decades of experience in the home appliance manufacturing industry, I have collaborated with more than one hundred companies. My professional journey is founded on technical expertise, operational experience, and a systemic approach to supply chain, production, and sales management. My mission is to enhance the quality of home appliance industry through knowledge transfer, technical development, and strong connections between manufacturers and global markets.
+
 <img src="/images/A01.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 Professional Experience
