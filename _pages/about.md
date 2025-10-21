@@ -27,13 +27,13 @@ Products and Development
 ------
 Throughout my 30+ years in the home appliance sector, I have focused primarily on cooling products such as household and industrial refrigerators, air conditioners, and refrigeration cycle components. I have managed and supervised all stages—from design and manufacturing to quality assurance and market launch. Collaborations with reputable domestic and international companies in foam injection, metal fabrication, and refrigeration systems have helped elevate product quality and strengthen competitiveness in both local and regional markets.
 
-<img src="/images/A05.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
+<img src="/images/A04.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 Engagement and Contributions
 ------
 With extensive experience in engineering, production, and sales management, I am open to collaboration with companies and investors in technology development, factory setup, and product quality improvement. My services include technical consulting, industrial startup management, supplier evaluation, and sales network development in Iran, China, and South Korea. My goal is to foster effective industrial partnerships and share expertise to enhance the competitiveness and global presence of domestic manufacturers.
 
-<img src="/images/A06.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
+<img src="/images/A05.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 
 **Thank you for visiting my webpage!**
