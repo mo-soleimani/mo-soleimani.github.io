@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: '**MOSTAFA SOLEIMANI**; <br> 30+ Years in Home Appliance Production'
+title: '**MOSTAFA SOLEIMANI**; <br> 30+Years in Home Appliance Production'
 author_profile: true
 redirect_from: 
   - /about/
