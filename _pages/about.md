@@ -34,7 +34,6 @@ Engagement and Contributions
 With extensive experience in engineering, production, and sales management, I am open to collaboration with companies and investors in technology development, factory setup, and product quality improvement. My services include technical consulting, industrial startup management, supplier evaluation, and sales network development in Iran, China, and South Korea. My goal is to foster effective industrial partnerships and share expertise to enhance the competitiveness and global presence of domestic manufacturers.
 
 <img src="/images/A05.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
-
 <img src="/images/A50.png" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 **Thank you for visiting my webpage!**
