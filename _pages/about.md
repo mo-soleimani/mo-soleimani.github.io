@@ -25,6 +25,8 @@ My core skills include design supervision, production line development, technica
 
 <img src="/images/A03.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
+<img src="/images/A30.png" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
+
 Products and Development
 ------
 Throughout my 30+ years in the home appliance sector, I have focused primarily on cooling products such as household and industrial refrigerators, air conditioners, and refrigeration cycle components. I have managed and supervised all stages—from design and manufacturing to quality assurance and market launch. Collaborations with reputable domestic and international companies in foam injection, metal fabrication, and refrigeration systems have helped elevate product quality and strengthen competitiveness in both local and regional markets.
