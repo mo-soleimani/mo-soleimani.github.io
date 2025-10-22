@@ -9,13 +9,13 @@
 
 main:
   - title: "Products"
-    url: /publications/
+    url: /Products/
   
   - title: "Expos"
-    url: "/projects/"
+    url: "/Expos/"
 
   - title: "Contact Me"
-    url: /teaching/           
+    url: /Contact_Me/           
     
   # - title: "CV"
   #   url: /cv-json/
