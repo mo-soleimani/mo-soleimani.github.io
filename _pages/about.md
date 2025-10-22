@@ -14,15 +14,13 @@ Professional Experience
 ------
 My professional career began in 1995, progressing from a home appliance service technician to senior engineering and management positions in leading industrial firms. I have worked with major brands such as Snowa, Daewoo, and Haier, contributing to product design, production line installation, reverse engineering, and quality control. I have led key projects in factory setup, workforce training, and product development, bridging the gap between technology and market demand to advance the domestic home appliance industry.
 <img src="/images/A02.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
-
 <img src="/images/A20.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 Skills and Expertise
 ------
 My core skills include design supervision, production line development, technical and quality control, and implementation of Value Engineering (VE) projects. In management, I specialize in sales leadership, supplier evaluation, and strategic marketing. Combining technical and managerial perspectives enables me to lead cross-functional teams and achieve measurable production and business outcomes. These competencies have allowed me to play a vital role in national and international industrial projects from concept development to market delivery. 
 <img src="/images/A03.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
-
-<img src="/images/A30.png" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
+<img src="/images/A30.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 Products and Development
 ------
