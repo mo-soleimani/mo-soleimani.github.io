@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <img src="/images/A01.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
+<img src="/images/A00.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 Professional Experience
 ------
