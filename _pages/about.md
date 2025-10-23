@@ -23,6 +23,7 @@ Skills and Expertise
 Products and Development
 ------
 <img src="/images/A04.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
+<img src="/images/AAA.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
 Engagement and Contributions
 ------
