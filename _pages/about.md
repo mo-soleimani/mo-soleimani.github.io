@@ -25,7 +25,7 @@ Products and Development
 <img src="/images/A04.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 <img src="/images/AAA.jpg" alt="TXT" style="width: 100%; display: block; margin: 0 auto; pointer-events: none;" />
 
-<video width="100%" height="auto" controls>
+<video width="90%" height="auto" controls>
   <source src="/assets/videos/IranExpo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
