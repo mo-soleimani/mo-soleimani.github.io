@@ -214,12 +214,12 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  expos:
-    output: true
-    permalink: /expos/:name/
   products:
     output: true
     permalink: /:collection/:path/
+  expos:
+    output: true
+    permalink: /expos/:name/
 
 # These settings control how pages and collections are included in the site
 defaults:
